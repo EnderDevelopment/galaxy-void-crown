@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" shape-rendering="crispEdges">
+    <!-- Head -->
+    <rect x="16" y="0" width="32" height="32" fill="#808080" />
+    <!-- Crown -->
+    <rect x="16" y="0" width="32" height="4" fill="#000000" />
+    <!-- Galaxy on Front -->
+    <circle cx="32" cy="16" r="8" fill="#FFFFFF" />
+    <circle cx="32" cy="16" r="4" fill="#0000FF" />
+    <circle cx="32" cy="16" r="2" fill="#FFFFFF" />
+    <!-- Galaxy on Back -->
+    <circle cx="48" cy="16" r="8" fill="#FFFFFF" />
+    <circle cx="48" cy="16" r="4" fill="#0000FF" />
+    <circle cx="48" cy="16" r="2" fill="#FFFFFF" />
+</svg>
